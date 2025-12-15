@@ -267,7 +267,7 @@ span {
 /* Certifications */
 .certifications-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* Always 4 items in a row */
+  grid-template-columns: repeat(5, 1fr); /* Always 4 items in a row */
   gap: 150px;
   max-width: 10000px; /* Adjust size */
   margin: 0 auto; /* Center the grid horizontally */
